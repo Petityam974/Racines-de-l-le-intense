@@ -79,6 +79,19 @@ html, body {
     padding: 10px 50px;
 }
 
+.footer {
+    width: 100%;
+  background-color: #d0caca;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  color: #555;
+  border-top: 1px solid #ccc;
+  margin-top: 830px;
+   box-sizing: border-box;
+
+}
+
 .mafate-hero {
   height: 100vh;
   background-image: url("images/mafate.jpg");
@@ -97,18 +110,6 @@ html, body {
   border-radius: 10px;
 }
 
-.footer {
-    width: 100%;
-  background-color: #d0caca;
-  padding: 10px;
-  text-align: center;
-  font-size: 15px;
-  color: #555;
-  border-top: 1px solid #ccc;
-  margin-top: 112px;
-   box-sizing: border-box;
-
-}
 
 .footer a {
   color: #333;

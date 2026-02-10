@@ -79,23 +79,6 @@ html, body {
     padding: 10px 50px;
 }
 
-.mafate-hero {
-  height: 100vh;
-  background-image: url("images/mafate.jpg");
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.contenu {
-  background: rgba(0,0,0,0.5);
-  color: white;
-  padding: 20px;
-  text-align: center;
-  border-radius: 10px;
-}
 
 .footer {
     width: 100%;
@@ -105,10 +88,12 @@ html, body {
   font-size: 15px;
   color: #555;
   border-top: 1px solid #ccc;
-  margin-top: 112px;
+  margin-top: 830px;
    box-sizing: border-box;
 
 }
+
+
 
 .footer a {
   color: #333;
