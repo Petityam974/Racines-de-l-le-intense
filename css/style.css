@@ -78,7 +78,7 @@ html, body {
     font-size: 20px;
     padding: 10px 50px;
 }
-
+/* Sous-page */
 .footer {
     width: 100%;
   background-color: #d0caca;
@@ -87,7 +87,7 @@ html, body {
   font-size: 15px;
   color: #555;
   border-top: 1px solid #ccc;
-  margin-top: 116px;
+  margin-top: 0px;
    box-sizing: border-box;
 
 }
@@ -172,4 +172,36 @@ nav.nav ul.menu a {
 /* Effet hover */
 .submenu li a:hover {
     background-color: #a01212;
+}
+
+
+.player{
+  background:#1f1c1c;
+  padding:15px;
+  width:260px;
+  border-radius:12px;
+  margin-top: 40px;
+  font-family:Arial;
+  color:rgb(206, 197, 197);
+  box-shadow:0 4px 15px rgba(24, 24, 24, 0.4);
+}
+
+audio{
+  width:100%;
+  margin-bottom:10px;
+}
+
+#titre{
+  font-weight:bold;
+  margin-bottom:10px;
+}
+
+li{
+  cursor:pointer;
+  padding:5px;
+  border-radius:6px;
+}
+
+li:hover{
+  background:#edecec;
 }
